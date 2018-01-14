@@ -1,0 +1,26 @@
+body {
+     -webkit-touch-callout: none;
+     -webkit-user-select: none;
+     -webkit-user-drag: none;
+     -webkit-user-modify: none;
+     -webkit-highlight: none;
+     font-family: Helvetica;
+   background-image: url(Watermark-iPad.png);
+   background-position: top center;
+   background-attachment: scroll;
+   background-repeat: repeat-y;
+   -webkit-background-size: 512px 900px;
+}
+td {
+  font-size:18pt;
+}
+h2 {
+  font-size:25pt;
+  color:#7c92ae;
+  margin-top: 3pt;
+  margin-left: 3pt;
+  margin-bottom: 2pt;
+}
+table {
+  margin-bottom:10pt;
+}
